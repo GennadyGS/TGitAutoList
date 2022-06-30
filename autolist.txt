@@ -1,0 +1,1 @@
+.fs = ^\s+(?:let|and)\s+(?:(?:private|internal)\s+)?([\w]+)\s+
