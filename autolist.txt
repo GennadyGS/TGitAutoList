@@ -1,1 +1,3 @@
 .fs = ^\s+(?:let|and)\s+(?:(?:private|internal)\s+)?([\w]+)\s+
+.csproj = ^\s*<PackageReference Include=\"([\w.]+)\"
+.fsproj = ^\s*<PackageReference Include=\"([\w.]+)\"
